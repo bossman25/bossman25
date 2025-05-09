@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm bossman25!
 
-<!--
-**bossman25/bossman25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring software developer exploring the intersection of technology and 3D modeling. Currently focused on:
 
-Here are some ideas to get you started:
+- **Programming & Projects**: Working through CS50AI to build a strong foundation in computer science and Python.
+- **Creative Tech**: Developing a custom Warframe video series using Python, storytelling, and Captura tools.
+- **Real-World Applications**: Learning how programming can enhance fields like game design and emergency management.
+- **Upcoming**: Planet simulator game in Python to go on Youtube, AI exploration through CS50AI, and learning 3D modeling with drones.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills & Tools
+- **Languages**: Python, C (beginner)
+- **Tools**: Git, Obsidian, MacroDroid, VS Code
+- **Learning**: Embedded Systems, AI (CS50AI), Game Dev with Pygame, Drone-based 3D modeling
+
+## Let's Connect
+- YouTube: [Coming soon!]
+- LinkedIn: [Coming soon!]
+- Portfolio Website: [Coming soon!]
+
